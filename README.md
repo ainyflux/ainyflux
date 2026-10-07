@@ -21,7 +21,7 @@ Every email address is verified with a live SMTP handshake before delivery, not 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
 
-The sourcing pipeline parses public job postings, filters them with an LLM, and surfaces signals for review. Verification runs as a handshake test on every address before it ships.
+Contacts come from a mix of public web parsing, third-party APIs and manual review — nothing ships until it passes a live verification check.
 
 ---
 
